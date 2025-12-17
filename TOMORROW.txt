@@ -1,0 +1,4 @@
+Day 2:
+- Start Flask backend
+- Convert controller to API
+- Test via browser
